@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'm Jana
+I am an incoming Bachelor's student preparing to launch my career in Cybersecurity Engineering. I am actively building my foundational skills in programming, networking, and system security before my formal classes begin.
 <!--
 **JanaM-jjjj/JanaM-jjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
