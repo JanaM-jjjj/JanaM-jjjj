@@ -1,5 +1,5 @@
 ## Hi I'm Jana
-I am an incoming Bachelor's student preparing to launch my career in Cybersecurity Engineering. I am actively building my foundational skills in programming, networking, and system security before my formal classes begin.
+I am an incoming Bachelor's student preparing to launch my career in Engineering. I am actively building my foundational skills in programming, networking, and system security before my formal classes begin.
 
 ### 📚 I Am Currently Learning
 - **Python Programming:** Learning automation, scripting, and data basics.
